@@ -52,11 +52,17 @@ Tools Used- Python Libraries:
 
 
 Power BI Dashboards
-1. Summary Dashboard:overview ![
+1. Summary Dashboard:overview ![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223628.png](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223628.png)
+ 
    - Displays stock prices and trading volumes with customizable time periods.
-2. Look Price Dashboard:
+2. Look Price Dashboard:![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223713.png](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223713.png)
+
+
    - Market share distribution and growth indicators.
-3.Daily Return Dashboard:
+3.Daily Return Dashboard:![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223803.png](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223803.png)
+![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223855%20-%20Copy.png](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223855%20-%20Copy.png)
+
+
    - Tracks daily stock performance and analyzes market volatility.
 
 
