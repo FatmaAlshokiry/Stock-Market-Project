@@ -1,4 +1,6 @@
 ![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/photo_2024-11-29_23-26-26.jpg](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/photo_2024-11-29_23-26-26.jpg)
+ 
+ 
 Stock Market Data Analysis Project
 
  Project Overview
