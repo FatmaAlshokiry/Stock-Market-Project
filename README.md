@@ -52,7 +52,7 @@ Tools Used- Python Libraries:
 
 
 Power BI Dashboards
-1. Summary Dashboard:
+1. Summary Dashboard:overview ![
    - Displays stock prices and trading volumes with customizable time periods.
 2. Look Price Dashboard:
    - Market share distribution and growth indicators.
