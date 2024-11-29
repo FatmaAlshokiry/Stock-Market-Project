@@ -59,6 +59,8 @@ Power BI Dashboards
 
 
    - Market share distribution and growth indicators.
+  
+   - 
 3.Daily Return Dashboard:![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223803.png](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223803.png)
 ![https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223855%20-%20Copy.png](https://github.com/FatmaAlshokiry/Stock-Market-Project/blob/main/Screenshot%202024-11-29%20223855%20-%20Copy.png)
 
