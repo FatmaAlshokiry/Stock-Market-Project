@@ -66,16 +66,8 @@ This project emphasizes the importance of data analysis in understanding financi
 
 Team Members
 - Fatma Ahmed Hassan:
-  - Data Cleaning
-  - Data Visualization in Python
-  - Creating Dashboards and Insights
-  - Preparing Reports and Presentations
-
 -Shazem Hany Ghariany:
-  - Data Cleaning
-  - Data Visualization in Python
-  - Creating Dashboards and Insights
-  - Preparing Reports and Presentations
+  
 
 
 
